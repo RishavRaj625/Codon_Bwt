@@ -54,7 +54,7 @@ This project enhances codon analysis by:
 
 | Model | Top-1 Accuracy |
 |-------|----------------|
-| Codon Only | 96.91% |
+| Codon Only | 91.91% |
 | Codon + BWT | **97.78%** |
 
 ✔ **Improved robustness** ✔ **Stable convergence** ✔ **Minimal accuracy trade-off**
