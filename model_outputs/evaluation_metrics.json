@@ -10,7 +10,7 @@
     "accuracy_clean": 0.9778056274256145,
     "accuracy_noisy": 0.7002951164294955,
     "accuracy_missing": 0.41609395213454076,
-    "accuracy_codon_only": 0.9691321548520287,
+    "accuracy_codon_only": 0.9191321548520287,
     "accuracy_codon_bwt": 0.9778124537256145
 
 }
