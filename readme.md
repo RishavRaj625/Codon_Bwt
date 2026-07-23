@@ -265,6 +265,5 @@ gunicorn app:app
 ## 📖 Additional Documentation
 
 For deeper insights into the project, refer to:
-- [PRD.md](PRD.md): Project Requirements Document & Real-Life Applications
 - [Architecture.md](Architecture.md): System Architecture, Data Flow, & Algorithms
 - [Design.md](Design.md): Visual Design Tokens, Typography, & Color Palette Guidelines
